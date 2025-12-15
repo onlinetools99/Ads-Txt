@@ -1,3 +1,25 @@
+bidmatic.io, b-b81a4, DIRECT
+smilewanted.com, 5740, RESELLER
+33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c#33Across#hb#tag
+ad.plus, 22896142137, DIRECT
+smilewanted.com, 5740, RESELLER
+33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c#33Across#hb#tag
+sharethrough.com, 4212, RESELLER, d53b998a7bd4ecd2
+thunder-monetize.com, 1947298216, RESELLER
+vdopia.com, 15364, DIRECT, 49a66ce31a704197#video
+chocolateplatform.com, 15364, DIRECT, 49a66ce31a704197#video
+pubmatic.com, 161771, reseller, 5d62403b186f2ace
+rubiconproject.com, 13132, Reseller, 0bfd66d529a55807
+google.com, pub-3806425709174277, RESELLER, f08c47fec0942fa0
+google.com, pub-1052532612488607, RESELLER, f08c47fec0942fa
+radiantfusion.co, 219453020, DIRECT
+appnexus.com, 17566, RESELLER, f5ab79cb980f11d1
+video.unrulymedia.com, 640501409, RESELLER
+lijit.com, 551736, RESELLER, fafdf38b16bf6b2b
+adyoulike.com, 98195283e30bc6f9b596c37278fc1c67, RESELLER
+viads.com, 539371, DIRECT, cd005eb8694a8736
+
+
 33across.com, 0015a00002egvRSAAY, RESELLER, bbea06d9c4d2853c #Illumin
 adform.com, 768, RESELLER, 9f5210a2f0999e32 #connectad
 ad-generation.jp, 12474, RESELLER, 7f4ea9029ac04e53
