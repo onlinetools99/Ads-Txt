@@ -169,6 +169,177 @@ yieldmo.com, 3482865003332051270, RESELLER
 zetaglobal.net, 891, DIRECT
 
 
+152media.info, 152M33, RESELLER
+9dotsmedia.com, 4581, DIRECT, 45ff185b4c4e857d
+AWG.LA, 23079500693, DIRECT
+Adsolut.in, 15668, Direct
+Adsolut.in, 17164, DIRECT
+Adsolut.in, 17692, Direct
+Cue7ven.com,783517,RESELLER
+Media.net, 8CU25UNKK, RESELLER
+Media.net, 8CU42SA73, DIRECT // Web
+Playstream.media, 2294, DIRECT
+Playstream.media, 2823, Direct
+Playstream.media, 77799, Direct
+adipolo.com, 22862575716, DIRECT
+adipolo.com, 23085823283, DIRECT
+adipolo.com, 23173019831, DIRECT
+adipolosolutions.com, 22862575716, DIRECT
+adipolosolutions.com, 23085823283, DIRECT
+adipolosolutions.com, 23173019831, DIRECT
+admatic.com.tr, mix-pub-8000370656, RESELLER
+adtelligent.com, 745570, DIRECT
+advertising.com, 82616, RESELLER
+adyoulike.com, 701e0e3d18b9ff62695c5d0aed9dd5a5, DIRECT, 4ad745ead2958bf7
+alkimi.org, 9914, RESELLER
+amxrtb.com, 105199918, RESELLER
+amxrtb.com, 26595957, DIRECT
+appnexus.com, 2358, DIRECT, f5ab79cb980f11d1
+appnexus.com, 2685833, DIRECT, f5ab79cb980f11d1
+axis-marketplace.com, 192, RESELLER
+axtionms.com  NetworkCode DIRECT
+bidmatic.io, b-b6062, DIRECT
+connectad.io, 548, RESELLER, 85ac85a30c93b3e5
+conversantmedia.com, 100292, RESELLER, 03113cd04947736d
+copper6.com, 23033711203, RESLLER
+copper6.com, 23173019831, DIRECT
+datawrkz.com, 2478, DIRECT
+e-planning.net, c0cf28d2f6e6cba1, RESELLER, c1ba615865ed87b2
+flashb.id, 9f4f9ea8-ee4b-53ef-ac17-e0fa0a7af2eb, DIRECT
+freewheel.tv, 1602344, RESELLER
+freewheel.tv, 1602346, RESELLER
+freewheel.tv, 535664-r-523319, RESELLER
+google.com, pub-1038553470353293, DIRECT, f08c47fec0942fa0
+google.com, pub-1416196179794807, DIRECT, f08c47fec0942fa0
+google.com, pub-1611250994338939, DIRECT, f08c47fec0942fa0
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+google.com, pub-1749515703339841, DIRECT, f08c47fec0942fa0
+google.com, pub-2080498907145222, DIRECT, f08c47fec0942fa0
+google.com, pub-2128000163458133, DIRECT, f08c47fec0942fa0
+google.com, pub-2159729029312692, DIRECT, f08c47fec0942fa0
+google.com, pub-2202038657149199, DIRECT, f08c47fec0942fa0
+google.com, pub-2415148557920976, DIRECT, f08c47fec0942fa0
+google.com, pub-2441844063231800, DIRECT, f08c47fec0942fa0
+google.com, pub-2948748301051743, DIRECT, f08c47fec0942fa0
+google.com, pub-3085839110279731, DIRECT, f08c47fec0942fa0
+google.com, pub-3211356231043518, DIRECT, f08c47fec0942fa0
+google.com, pub-3421974146441419, DIRECT, f08c47fec0942fa0
+google.com, pub-3513501695331143, DIRECT, f08c47fec0942fa0
+google.com, pub-3583558735912669, DIRECT, f08c47fec0942fa0
+google.com, pub-3602456083005817, DIRECT, f08c47fec0942fa0
+google.com, pub-3619133031508264,DIRECT,f08c47fec0942fa0
+google.com, pub-3674210451391192, DIRECT, f08c47fec0942fa0
+google.com, pub-3715562101512710, RESELLER, f08c47fec0942fa0
+google.com, pub-4033276737843883, DIRECT, f08c47fec0942fa0
+google.com, pub-4341825792475281, DIRECT, f08c47fec0942fa0
+google.com, pub-4419817472916862, DIRECT, f08c47fec0942fa0
+google.com, pub-4906775516781802, DIRECT, f08c47fec0942fa0
+google.com, pub-5081196879566290, RESELLER, f08c47fec0942fa0
+google.com, pub-5157263156975427, DIRECT, f08c47fec0942fa0
+google.com, pub-5159074169985057, DIRECT, f08c47fec0942fa0
+google.com, pub-5227880727490926, DIRECT, f08c47fec0942fa0
+google.com, pub-5354966449396723, DIRECT, f08c47fec0942fa0
+google.com, pub-5359903685681775, DIRECT, f08c47fec0942fa0
+google.com, pub-5495088642504419, DIRECT, f08c47fec0942fa0
+google.com, pub-5646559979045035, DIRECT, f08c47fec0942fa0
+google.com, pub-5814161161676611, DIRECT, f08c47fec0942fa0
+google.com, pub-5899156903189473, DIRECT, f08c47fec0942fa0
+google.com, pub-5949539234449438, DIRECT, f08c47fec0942fa0
+google.com, pub-6137168296225946, DIRECT, f08c47fec0942fa0
+google.com, pub-6286716892218610, DIRECT, f08c47fec0942fa0
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+google.com, pub-7237665504578427, DIRECT, f08c47fec0942fa0
+google.com, pub-7552098242048811, DIRECT, f08c47fec0942fa0
+google.com, pub-7667714920292699, DIRECT, f08c47fec0942fa0
+google.com, pub-7668860758286063, DIRECT, f08c47fec0942fa0
+google.com, pub-7695505803468574, RESELLER, f08c47fec0942fa0
+google.com, pub-7781528554198122, DIRECT, f08c47fec0942fa0
+google.com, pub-7787163661221151, DIRECT, f08c47fec0942fa0
+google.com, pub-7890292143716709, DIRECT, f08c47fec0942fa0
+google.com, pub-8031510275953037, DIRECT, f08c47fec0942fa0
+google.com, pub-8136841300154097, DIRECT, f08c47fec0942fa0
+google.com, pub-8170593316624529, DIRECT, f08c47fec0942fa0
+google.com, pub-8329684287166021, DIRECT, f08c47fec0942fa0
+google.com, pub-8719760548288051, DIRECT, f08c47fec0942fa0
+google.com, pub-8782592962127031, DIRECT, f08c47fec0942fa0
+google.com, pub-8821921461632686, DIRECT, f08c47fec0942fa0
+google.com, pub-8846765860475723, DIRECT, f08c47fec0942fa0
+google.com, pub-8858590829204092, DIRECT, f08c47fec0942fa0
+google.com, pub-8878343345945320, DIRECT, f08c47fec0942fa0
+google.com, pub-8940222680497011, DIRECT, f08c47fec0942fa0
+google.com, pub-9089347799132820, DIRECT, f08c47fec0942fa0
+google.com, pub-9175934846305707, DIRECT, f08c47fec0942fa0
+google.com, pub-9219954761243535, RESELLER, f08c47fec0942fa0
+google.com, pub-9317221041021165, DIRECT, f08c47fec0942fa0
+google.com, pub-9455272378627742, DIRECT, f08c47fec0942fa0
+google.com, pub-9945004250618972, DIRECT, f08c47fec0942fa0
+google.com,pub-6479999173277695, RESELLER, f08c47fec0942fa0
+hindsightsolutions.net, 346, DIRECT
+insticator.com,42f5d0d3-5cd9-4738-ba62-b3ac27c07770,DIRECT,b3511ffcafb23a32
+justbaat.com, 202510273323, DIRECT
+kueez.com, 37593fdf8691b30f3d5f396800196fc7, reseller
+lijit.com, 585632, RESELLER, fafdf38b16bf6b2b
+lkqd.net, 1100059840, RESELLER, 59c49fa9598a0117
+media.net, 8CUH04A98, DIRECT
+monetixads.com, mix-pub-8000370656, RESELLER
+mowplayer.com, pubfuture, DIRECT
+nativo.com, 6067, RESELLER, 59521ca7cc5e9fee
+onetag.com, 7f3c08b1c2b4a0c, DIRECT
+onetag.com, 7f3c08b1c2b4a0c-OB, DIRECT
+onetag.com, 863d3f1155de000, DIRECT
+onetag.com, 863d3f1155de000-OB, DIRECT
+opamarketplace.com, 23085823283, DIRECT
+opamarketplace.com, 23173019831, DIRECT
+openx.com, 559803239, RESELLER, 6a698e2ec38604c6
+openx.com, 560878260, RESELLER, 6a698e2ec38604c6
+pmbmonetize.com, 23085823283, DIRECT
+pmbmonetize.com, 23173019831, DIRECT
+pubmatic.com, 159727, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+purpleads.io, 68ff8e6f3d9ffa05e192e991, DIRECT
+richaudience.com, XoB4ac2obW, RESELLER
+richaudience.com, aeJRrWlCs3, RESELLER
+rubiconproject.com, 24872, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24874, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26768, RESELLER, 0bfd66d529a55807
+seedtag.com, 6659312808454300067998ab, DIRECT
+seedtag.com, 6931fa98386e610007d2efee, DIRECT
+sharethrough.com, UN5mGpO8, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, lQkr9L9o, RESELLER, d53b998a7bd4ecd2
+smartadline.com, 23085823283, DIRECT
+smartadline.com, 23173019831, DIRECT
+smartadserver.com, 3261, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 3261-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4144, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4164, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4164-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4734, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4734-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
+smilewanted.com, 3496, RESELLER
+smilewanted.com, 5740, RESELLER
+srchbid.com, 68463, DIRECT
+thebrave.io, 1234801, RESELLER, c25b2154543746ac
+themediagrid.com, 8USKI6, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, EK87YP, RESELLER, 35d5010d7789b49d
+themediagrid.com, KMX76A, DIRECT, 35d5010d7789b49d
+themediagrid.com, QUZDR9, RESELLER, 35d5010d7789b49d
+triplelift.com, 12738, RESELLER, 6c33edb13117fd86
+triplelift.com, 14707, RESELLER, 6c33edb13117fd86
+triplelift.com, 14717, RESELLER, 6c33edb13117fd86
+trustedstack.com, TS3MF8KJ3, RESELLER
+video.unrulymedia.com, 377699678, RESELLER
+video.unrulymedia.com, 592590137, RESELLER
+video.unrulymedia.com, 703273072, RESELLER
+vidgyor.com, 11388, DIRECT
+viously.com, 594b7a6d-69ad-5b09-9a67-80e8d1b2bb48, DIRECT
+voisetech.com, 1312, DIRECT, 9009ef0379162448
+webtvasia.com, 21715635079 ,DIRECT
+yandex.com, 316263143, DIRECT
+yieldmo.com, 3482865003332051270, RESELLER
+zetaglobal.net, 891, DIRECT
+
+
 mgid.com, 950021, DIRECT, d4c29acad76ce94f
 
 google.com, pub-4894759983606832, DIRECT, f08c47fec0942fa0
