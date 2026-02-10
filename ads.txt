@@ -1,3 +1,137 @@
+OWNERDOMAIN=nyashanation.com
+clickio.com, 147624, DIRECT
+152media.info,152M648,RESELLER
+adform.com, 3004, RESELLER
+admanmedia.com,2083,RESELLER
+admixer.com, 5a0e3544-8d64-495e-9042-ed450f205817, RESELLER
+adpone.com,ff4766b6846596df0816,RESELLER
+adsolut.in, 17384, RESELLER
+adsyield.com,1231, RESELLER
+amxrtb.com, 105199600, RESELLER
+amxrtb.com, 105199734, RESELLER
+appnexus.com, 11853, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9954, RESELLER, f5ab79cb980f11d1
+appnexus.com,3480,RESELLER,f5ab79cb980f11d1
+appnexus.com,3927,RESELLER,f5ab79cb980f11d1
+appnexus.com,6924,RESELLER,f5ab79cb980f11d1
+betweendigital.com, 44937, RESELLER
+connectad.io, 328, RESELLER, 85ac85a30c93b3e5
+consumable.com,2001458,RESELLER,aefcd3d2f45b5070
+Contextweb.com,563079,RESELLER,89ff185a4c4e857c
+contextweb.com,562940,RESELLER,89ff185a4c4e857c
+criteo.com, B-068838, RESELLER, 9fac4a4a87c2a44f
+criteo.com,B-062285,RESELLER,9fac4a4a87c2a44f
+e-planning.net, a57c4c4fa787d9b5, RESELLER, c1ba615865ed87b2
+freewheel.tv, 1184127, RESELLER
+freewheel.tv, 1184143, RESELLER
+freewheel.tv, 1342770, RESELLER
+freewheel.tv, 1342850, RESELLER
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
+google.com, pub-3104790387792468, RESELLER, f08c47fec0942fa0
+google.com, pub-7168377611570943, RESELLER, f08c47fec0942fa0
+google.com, pub-9033452914732140, RESELLER, f08c47fec0942fa0
+greedygame.com,2945322960280189,RESELLER
+groupm.com, 103, RESELLER
+groupm.com, 95, RESELLER
+improvedigital.com, 1363, RESELLER
+improvedigital.com, 1749, RESELLER
+improvedigital.com, 1791, RESELLER
+improvedigital.com, 2096, RESELLER
+improvedigital.com, 2365, RESELLER
+incrementx.com, 100083, RESELLER, 8728b7e97e589da4
+indexexchange.com, 189595, RESELLER
+indexexchange.com,195921,RESELLER,50b1c356f2c5c8fc
+instreamatic.com,99,RESELLER
+iqzone.com, IQ326, RESELLER
+jfacassoc.com,1630,RESELLER
+lijit.com, 247953, RESELLER, fafdf38b16bf6b2b
+lijit.com, 247953-eb, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11498, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 11569, RESELLER, 6c8d5f95897a5a3b
+madvertise.com, 7014, RESELLER
+media.net, 8CU4W3BUO, RESELLER
+media.net, 8CU74SME9, RESELLER
+netpoint-media.de, np-6319, RESELLER
+nextmillennium.io, 16630, RESELLER, 65bd090fa4a1e3d6
+ogury.com, ae2e749f-fba5-4c12-bcca-6ba139c4db2a, RESELLER
+onetag.com, 7685cd60ce8d4f0, RESELLER
+onetag.com, 7685cd60ce8d4f0-OB, RESELLER
+onetag.com, 7d8634e6eea97cb, RESELLER
+onetag.com, 87f58fe90234d0e, RESELLER
+openx.com, 537119011, RESELLER, 6a698e2ec38604c6
+openx.com, 540158170, RESELLER, 6a698e2ec38604c6
+openx.com, 540224251, RESELLER, 6a698e2ec38604c6
+openx.com, 540781154, RESELLER, 6a698e2ec38604c6
+openx.com, 559911747, RESELLER, 6a698e2ec38604c6
+opera.com, pub9443931419968, RESELLER, 55a0c5fd61378de3
+opera.com,pub8115928507584,RESELLER,55a0c5fd61378de3
+playstream.media, 2514, RESELLER
+pubmatic.com, 157569, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157577, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157685, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157687, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161557, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161899, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163251, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164593, RESELLER, 5d62403b186f2ace
+pubmatic.com,161546,RESELLER,5d62403b186f2ace
+richaudience.com, 0VKNb14Qm3, RESELLER
+rubiconproject.com, 13788, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16474, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19942, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19944, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 22494, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23306, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25458, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26476, RESELLER, 0bfd66d529a55807
+rubiconproject.com,15994,RESELLER,0bfd66d529a55807
+rubiconproject.com,18194,RESELLER,0bfd66d529a55807
+rubiconproject.com,23550,RESELLER,0bfd66d529a55807
+se7en.es,212459,RESELLER,064bc410192443d8
+sharethrough.com, KGPeiFc6, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, z4z8ek6m, RESELLER, d53b998a7bd4ecd2
+showheroes.com, 2787, RESELLER
+smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
+smaato.com,1100047589,RESELLER
+smartadserver.com, 2161-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 3070, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 3070-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 3920, RESELLER
+smartadserver.com, 4164, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4741, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4839, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5302, RESELLER, 060d053dcf45cbf3
+smartadserver.com,1408,RESELLER
+soundcast.fm,5e3301babc6b5,RESELLER
+soundcast.fm,63038ce281dfc,RESELLER
+stailamedia.com, 1145087, RESELLER
+sunmedia.tv, 12918514-294e-4e6e-8eae-c89a8fec20f5, RESELLER, 24794F6
+sunmedia.tv, 455be357-ad46-4f10-8872-701656980003, RESELLER, 24794F6
+sunmedia.tv, 852c0d87-cafc-4bba-a88c-f74cf18086b0, RESELLER, 24794F6
+telaria.com, l2qly-o8w5q, RESELLER, 1a4e959a1b50034a
+thebrave.io, 1234714, RESELLER, c25b2154543746ac
+themediagrid.com, F4K9Y8, RESELLER, 35d5010d7789b49d
+themediagrid.com, JDTGYN, RESELLER, 35d5010d7789b49d
+themediagrid.com, Q6VXLE, RESELLER, 35d5010d7789b49d
+thunder-monetize.com, 1947298216, RESELLER
+tremorhub.com, l2qly-o8w5q, RESELLER, 1a4e959a1b50034a
+triplelift.com, 11721-EB, RESELLER, 6c33edb13117fd86
+tritondigital.com,106423,RESELLER,19b4454d0b87b58b
+tritondigital.com,123193,RESELLER,19b4454d0b87b58b
+trustedstack.com, TS9V5HI46, RESELLER
+video.unrulymedia.com, 12444764291, RESELLER
+video.unrulymedia.com, 3611299104, RESELLER
+video.unrulymedia.com, 799061815, RESELLER
+video.unrulymedia.com,7491264956381456664,RESELLER
+vidoomy.com, 1777325, RESELLER
+viralize.com, 2787, RESELLER
+yieldlab.net,495507,RESELLER
+yieldlab.net,5494672,RESELLER
+yieldlab.net,5798882,RESELLER
+yieldmo.com, 3377199372461613093, RESELLER
+yoc.com, 5903, RESELLER
+
 152media.info, 152M33, RESELLER
 9dotsmedia.com, 4581, DIRECT, 45ff185b4c4e857d
 AWG.LA, 23079500693, DIRECT
