@@ -1,3 +1,287 @@
+# OWNERDOMAIN=
+# MANAGERDOMAIN=zigads.net
+zigads.net,6c902f3e116dd432b167fdc938a90c21,DIRECT
+google.com,pub-9268834053691881,DIRECT,f08c47fec0942fa0
+google.com,pub-5605015008953849,DIRECT,f08c47fec0942fa0
+google.com, pub-2673687074124029, DIRECT, f08c47fec0942fa0
+google.com, pub-1276753030117376, DIRECT, f08c47fec0942fa0
+google.com, pub-6036180925410134, DIRECT, f08c47fec0942fa0
+google.com, pub-5813811869343512, DIRECT, f08c47fec0942fa0
+google.com, pub-3649337735674249, DIRECT, f08c47fec0942fa0
+biddigi.com,ADG4015,DIRECT
+prosegments.com,PSADG200,DIRECT
+google.com,pub-1492470174558643,DIRECT,f08c47fec0942fa0
+google.com, pub-9920716596978224, DIRECT, f08c47fec0942fa0
+programmaticians.com,PGADG200,DIRECT
+google.com,pub-5413329544040947,RESELLER,f08c47fec0942fa0
+google.com, pub-9920716596978224, DIRECT, f08c47fec0942fa0
+yahoo.com,59636,DIRECT,e1a5b5b6e3255540 #SSP
+indexexchange.com,175407,RESELLER,50b1c356f2c5c8fc #SSP O&O,3P
+pubmatic.com,156107,RESELLER,5d62403b186f2ace #Display
+rubiconproject.com,17250,RESELLER,0bfd66d529a55807
+google.com,pub-6924823460429592,DIRECT,f08c47fec0942fa0
+google.com, pub-1881216869713554, DIRECT, f08c47fec0942fa0
+google.com, pub-2755245760770628, DIRECT, f08c47fec0942fa0
+google.com, pub-7444886263659905, DIRECT, f08c47fec0942fa0
+google.com, pub-4337058355283958, DIRECT, f08c47fec0942fa0
+google.com, pub-9920716596978224, DIRECT, f08c47fec0942fa0
+google.com,pub-9065424948346239,DIRECT,f08c47fec0942fa0
+auads.com,5dbc0f5c8adf565d0a50c48b8c18e202,DIRECT
+rubiconproject.com,22554,RESELLER,0bfd66d529a55807
+google.com, pub-2673687074124029, DIRECT, f08c47fec0942fa0
+google.com,pub-1781853254296294,DIRECT,f08c47fec0942fa0
+google.com,pub-4305474543250232,DIRECT,f08c47fec0942fa0
+google.com,pub-4964914015319876,DIRECT,f08c47fec0942fa0
+pubmatic.com,159855,DIRECT,5d62403b186f2ace
+rubiconproject.com,24482,DIRECT,0bfd66d529a55807
+google.com,pub-9800403248190356,DIRECT,f08c47fec0942fa0
+rubiconproject.com,24484,DIRECT,0bfd66d529a55807
+rtbdemand.com,23041948471,DIRECT
+google.com,pub-3872674820285626,RESELLER,f08c47fec0942fa0
+google.com,pub-8131585741503195,DIRECT,f08c47fec0942fa0
+rubiconproject.com,26890,RESELLER,0bfd66d529a55807
+google.com, pub-1276753030117376, DIRECT, f08c47fec0942fa0
+pubmatic.com,159855,RESELLER,5d62403b186f2ace
+openx.com,561447216,RESELLER,6a698e2ec38604c6
+rubiconproject.com,26884,DIRECT,0bfd66d529a55807
+appnexus.com,11924,RESELLER,f5ab79cb980f11d1
+152media.info,152M21,RESELLER
+openx.com,539848768,RESELLER,6a698e2ec38604c6
+google.com,pub-3614421207407328,DIRECT,f08c47fec0942fa0
+pubmatic.com,166212,RESELLER,5d62403b186f2ace
+pubmatic.com,161289,RESELLER,5d62403b186f2ace
+vidcrunch.com,68c7ef5d4f473ab2e40b7f91,DIRECT
+google.com,pub-9417114411593463,RESELLER,f08c47fec0942fa0
+adipolo.com,22655109307,RESELLER
+adipolosolutions.com,22655109307,RESELLER
+google.com, pub-3258087829873654, DIRECT, f08c47fec0942fa0
+google.com, pub-7222946603475289, DIRECT, f08c47fec0942fa0
+google.com, pub-9021972289114306, DIRECT, f08c47fec0942fa0
+google.com, pub-7233027814706360, DIRECT, f08c47fec0942fa0
+google.com, pub-1492470174558643, DIRECT, f08c47fec0942fa0
+pmbmonetize.com,22893781514,DIRECT
+opamarketplace.com,22893781514,DIRECT
+google.com, pub-6036180925410134, DIRECT, f08c47fec0942fa0
+google.com,pub-4836542095728076,RESELLER,f08c47fec0942fa0
+google.com,pub-2930805104418204,RESELLER,f08c47fec0942fa0
+google.com,pub-9135355251665930,RESELLER,f08c47fec0942fa0
+google.com,pub-6836893785842388,DIRECT,f08c47fec0942fa0
+pmbmonetize.com,23033085077,DIRECT
+opamarketplace.com,23033085077,DIRECT
+smartadline.com,22703897216,RESELLER
+google.com,pub-6804276076764268,RESELLER,f08c47fec0942fa0
+google.com,pub-5862389829718358,RESELLER,f08c47fec0942fa0
+google.com, pub-5813811869343512, DIRECT, f08c47fec0942fa0
+google.com,pub-5622190078950764,DIRECT,f08c47fec0942fa0
+opamarketplace.com,22655109307,RESELLER
+pmbmonetize.com,22655109307,RESELLER
+smartadline.com,22655109307,RESELLER
+gannett.com,22655109307,RESELLER
+media.net,8CUZ310G2,DIRECT
+google.com,pub-3565385483761681,RESELLER,f08c47fec0942fa0
+didna.io,22655109307,RESELLER
+hindsightsolutions.net,22655109307,RESELLER
+aps.amazon.com,64abda41-57ff-4c58-84f8-8c2c7ab4be23,DIRECT
+google.com, pub-9800403248190356, DIRECT, f08c47fec0942fa0
+google.com, pub-3614421207407328, DIRECT, f08c47fec0942fa0
+google.com, pub-6836893785842388, DIRECT, f08c47fec0942fa0
+google.com, pub-5622190078950764, DIRECT, f08c47fec0942fa0
+google.com, pub-2637580625374406, DIRECT, f08c47fec0942fa0
+google.com,pub-2637580625374406,DIRECT,f08c47fec0942fa0
+markappmedia.site,324138,DIRECT
+appnexus.com,14416,DIRECT,f5ab79cb980f11d1
+google.com, pub-3258087829873654, DIRECT, f08c47fec0942fa0
+google.com, pub-7222946603475289, DIRECT, f08c47fec0942fa0
+google.com, pub-9021972289114306, DIRECT, f08c47fec0942fa0
+freewheel.tv,1139281,RESELLER
+smartadserver.com,3686,RESELLER
+smartadserver.com,3686-OB,RESELLER,060d053dcf45cbf3
+google.com, pub-3649337735674249, DIRECT, f08c47fec0942fa0
+video.unrulymedia.com,404985931,RESELLER
+rubiconproject.com,20100,RESELLER,0bfd66d529a55807
+rubiconproject.com,10968,RESELLER,0bfd66d529a55807
+improvedigital.com,2486,RESELLER
+improvedigital.com,2487,RESELLER
+aniview.com,5b59760c073ef46a2e6b8f13,RESELLER,78b21b97965ec3f8
+adagio.io,1303,RESELLER
+google.com,pub-6346866704322274,RESELLER,f08c47fec0942fa0
+sharethrough.com,zLsEa05k,RESELLER,d53b998a7bd4ecd2
+pubmatic.com,156557,RESELLER,5d62403b186f2ace
+google.com, pub-3258087829873654, DIRECT, f08c47fec0942fa0
+rubiconproject.com,18694,RESELLER,0bfd66d529a55807
+openx.com,540274407,RESELLER,6a698e2ec38604c6
+33across.com,0013300001kQj2HAAS,RESELLER,bbea06d9c4d2853c
+smaato.com,1100047713,RESELLER,07bcf65f187117b4
+yahoo.com,59531,RESELLER,e1a5b5b6e3255540
+smartadserver.com,4342,RESELLER
+smartadserver.com,4012,RESELLER
+didna.io,22652678936,RESELLER
+google.com,pub-6479999173277695,RESELLER,f08c47fec0942fa0
+hindsightsolutions.net,22652678936,RESELLER
+google.com,pub-5717092533913515,RESELLER,f08c47fec0942fa0
+google.com, pub-7233027814706360, DIRECT, f08c47fec0942fa0
+google.com, pub-7222946603475289, DIRECT, f08c47fec0942fa0
+google.com, pub-1492470174558643, DIRECT, f08c47fec0942fa0
+gannett.com,22652678936,RESELLER
+appnexus.com,12637,RESELLER,f5ab79cb980f11d1
+media.net,8CU322PTV,RESELLER,818f58666cabc936
+rubiconproject.com,13918,RESELLER,0bfd66d529a55807
+pubmatic.com,160993,RESELLER,5d62403b186f2ace
+aps.amazon.com,1ad7261b-91ea-4b6f-b9e9-b83522205b75,RESELLER
+video.unrulymedia.com,3350674472,RESELLER
+google.com,pub-4903453974745530,RESELLER,f08c47fec0942fa0
+adipolosolutions.com,22652678936,RESELLER
+richaudience.com,1ru8dKmJJV,RESELLER
+appnexus.com,8233,RESELLER,f5ab79cb980f11d1
+openx.com,539625136,RESELLER,6a698e2ec38604c6
+google.com,pub-8303065926141529,DIRECT,f08c47fec0942fa0
+pubmatic.com,156538,RESELLER,5d62403b186f2ace
+google.com, pub-9021972289114306, DIRECT, f08c47fec0942fa0
+smartadserver.com,2640,RESELLER
+smartadserver.com,2441,RESELLER
+openx.com,540862677,RESELLER,6a698e2ec38604c6
+openx.com,557739593,RESELLER,6a698e2ec38604c6
+themediagrid.com,PRLEZI,RESELLER,35d5010d7789b49d
+amxrtb.com,105199583,RESELLER,3adbe8d09f15cf6c
+lijit.com,376385,RESELLER,fafdf38b16bf6b2b
+google.com, pub-8303065926141529, DIRECT, f08c47fec0942fa0
+google.com, pub-5950589968561569, DIRECT, f08c47fec0942fa0
+google.com, pub-5939413634559799, DIRECT, f08c47fec0942fa0
+google.com, pub-3504825153318645, DIRECT, f08c47fec0942fa0
+appnexus.com,1019,RESELLER,f5ab79cb980f11d1
+openx.com,538959099,RESELLER,6a698e2ec38604c6
+pubmatic.com,137711,RESELLER,5d62403b186f2ace
+pubmatic.com,156212,RESELLER,5d62403b186f2ace
+google.com, pub-7233027814706360, DIRECT, f08c47fec0942fa0
+video.unrulymedia.com,2444764291,RESELLER,6f752381ad5ec0e5
+rubiconproject.com,17960,RESELLER,0bfd66d529a55807
+freewheel.tv,1164257,RESELLER,74e8e47458f74754
+freewheel.tv,1164257-169843,RESELLER,74e8e47458f74754
+freewheel.tv,1164257-524565,RESELLER,74e8e47458f74754
+freewheel.tv,1157681,RESELLER,74e8e47458f74754
+google.com,pub-8534650309828026,RESELLER,f08c47fec0942fa0
+google.com, pub-9800403248190356, DIRECT, f08c47fec0942fa0
+google.com, pub-3614421207407328, DIRECT, f08c47fec0942fa0
+media.net,8CUXCT7BJ,RESELLER,818f58666cabc936
+rubiconproject.com,24078,RESELLER,0bfd66d529a55807
+openx.com,556532676,RESELLER,6a698e2ec38604c6
+pubmatic.com,161400,RESELLER,5d62403b186f2ace
+sharethrough.com,wGR7Zifp,RESELLER,d53b998a7bd4ecd2
+lijit.com,376385-eb,RESELLER,fafdf38b16bf6b2b
+google.com,pub-5950589968561569,DIRECT,f08c47fec0942fa0
+google.com,pub-2561470205289901,RESELLER,f08c47fec0942fa0
+rwadx.com,rw977gpobmmvyzkafzpcmlnltnlnloklkxu63e22fbe6eb32,RESELLER
+readwhere.digital,rd966febvwuaersnkrdgppbfotoliefgfku63e2354f76cca,RESELLER
+triplelift.com,11895-EB,RESELLER,6c33edb13117fd86
+video.unrulymedia.com,3331381261,RESELLER,6f752381ad5ec0e5
+google.com,pub-6070398767421094,RESELLER,f08c47fec0942fa0
+themediagrid.com,4AJU2M,RESELLER,35d5010d7789b49d
+auth.inc,0000014,RESELLER
+aps.amazon.com,bcab2d03-65af-4e4d-932b-c9550bbe9c22,RESELLER
+152media.info,152M1098,RESELLER
+adform.com,768,RESELLER,9f5210a2f0999e32
+connectad.io,505,RESELLER,85ac85a30c93b3e5
+inmobi.com,155796dfff86494e9b375346a748e8eb,RESELLER,83e75a7ae333ca9d
+google.com, pub-6836893785842388, DIRECT, f08c47fec0942fa0
+google.com, pub-5622190078950764, DIRECT, f08c47fec0942fa0
+richaudience.com,zT8VGhl43u,RESELLER
+adform.com,1942,RESELLER
+video.unrulymedia.com,592728597,RESELLER
+omgstudios.com,300520241,DIRECT,f08c47fec0942fa0
+google.com,pub-9857612698505806,RESELLER,f08c47fec0942fa0
+xandr.com,13291,RESELLER
+onetag.com,7c5eba01acab359,RESELLER
+lijit.com,391818,RESELLER,fafdf38b16bf6b2b
+appnexus.com,8283,DIRECT,f5ab79cb980f11d1
+themediagrid.com,OTJDBI,DIRECT,35d5010d7789b49d
+rubiconproject.com,24064,DIRECT,0bfd66d529a55807
+conversantmedia.com,100807,RESELLER,03113cd04947736d
+supply.colossusssp.com,423,DIRECT
+appnexus.com,10490,RESELLER,f5ab79cb980f11d1
+contextweb.com,562060,RESELLER,89ff185a4c4e857c
+lijit.com,411915,DIRECT,fafdf38b16bf6b2b
+openx.com,540861995,DIRECT,6a698e2ec38604c6
+openx.com,558237126,DIRECT,6a698e2ec38604c6
+adform.com,3215,RESELLER
+orangeclickmedia.com,C-1002,DIRECT,cd730d2f56b472c4
+media.net,8CUJY6S41,RESELLER
+pubmatic.com,160006,RESELLER,5d62403b186f2ace
+google.com,pub-5939413634559799,DIRECT,f08c47fec0942fa0
+pubmatic.com,160096,RESELLER,5d62403b186f2ace
+google.com, pub-2637580625374406, DIRECT, f08c47fec0942fa0
+google.com, pub-8303065926141529, DIRECT, f08c47fec0942fa0
+google.com, pub-5950589968561569, DIRECT, f08c47fec0942fa0
+google.com, pub-5939413634559799, DIRECT, f08c47fec0942fa0
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+pubmatic.com,161542,DIRECT,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+smaato.com,1100044650,RESELLER,07bcf65f187117b4
+ad-generation.jp,12474,RESELLER,7f4ea9029ac04e53
+google.com, pub-3504825153318645, DIRECT, f08c47fec0942fa0
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+yieldmo.com,2719019867620450718,RESELLER
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+google.com,pub-3504825153318645,DIRECT,f08c47fec0942fa0
+yahoo.com,55029,RESELLER,e1a5b5b6e3255540
+gumgum.com,14141,RESELLER,ffdef49475d318a9
+admanmedia.com,726,RESELLER
+sharethrough.com,7144eb80,RESELLER,d53b998a7bd4ecd2
+emxdgt.com,2009,RESELLER,1e1d41537f7cad7f
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+contextweb.com,562541,RESELLER,89ff185a4c4e857c
+smartadserver.com,4125,RESELLER,060d053dcf45cbf3
+themediagrid.com,JTQKMP,RESELLER,35d5010d7789b49d
+beachfront.com,14804,RESELLER,e2541279e8e2ca4d
+appnexus.com,8219,DIRECT,f5ab79cb980f11d1
+sovrn.com,236010,DIRECT,fafdf38b16bf6b2b
+lijit.com,236010,DIRECT,fafdf38b16bf6b2b
+google.com, pub-2673687074124029, DIRECT, f08c47fec0942fa0
+google.com, pub-1276753030117376, DIRECT, f08c47fec0942fa0
+google.com, pub-6036180925410134, DIRECT, f08c47fec0942fa0
+improvedigital.com,2050,RESELLER
+mintegral.com,10043,RESELLER,0aeed750c80d6423
+sonobi.com,7f5fa520f8,RESELLER,d1a215d9eb5aee9e
+indexexchange.com,199987,DIRECT,50b1c356f2c5c8fc
+media.net,8CUZ1MK22,RESELLER
+mediago.io,045ac24b888bcf59a09731e7f0f2084f,RESELLER
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
+gameadzone.com, 2123, DIRECT
+visiblemeasures.com,1052,RESELLER
+onetag.com,63cef4c722237f4,DIRECT
+minutemedia.com,01g7qagjtx2p,DIRECT
+undertone.com,4205,RESELLER,d954590d0cb265b9
+imds.tv,AM1601,RESELLER,ae6c32151e71f19d
+vidazoo.com,64ee0363fd0942fca4082d50,DIRECT,b6ada874b4d7d0b2
+google.com, pub-5813811869343512, DIRECT, f08c47fec0942fa0
+google.com, pub-3649337735674249, DIRECT, f08c47fec0942fa0
+kargo.com,8824,RESELLER
+adyoulike.com,7463c359225e043c111036d7a29affa5,RESELLER,4ad745ead2958bf7
+adyoulike.com,f1e9cd7b291282fcad240a455fd65c12,DIRECT,4ad745ead2958bf7
+risecodes.com,5e5bd88e0005a80001867579,DIRECT
+start.io,123111883,RESELLER
+appnexus.com,9284,RESELLER,f5ab79cb980f11d1
+appnexus.com,15799,RESELLER,f5ab79cb980f11d1
+nextmillennium.io,16203,RESELLER,65bd090fa4a1e3d6
+pubmatic.com,161593,RESELLER,5d62403b186f2ace
+rubiconproject.com,11006,RESELLER,0bfd66d529a55807
+onetag.com,57e618150c70d90,RESELLER
+pubmatic.com,161335,RESELLER,5d62403b186f2ace
+rubiconproject.com,13510,RESELLER,0bfd66d529a55807
+pubmatic.com,81564,RESELLER,5d62403b186f2ace
+openx.com,558899373,RESELLER,6a698e2ec38604c6
+triplelift.com,13482,RESELLER,6c33edb13117fd86
+e-planning.net,83c06e81531537f4,RESELLER,c1ba615865ed87b2
+rubiconproject.com,12186,RESELLER,0bfd66d529a55807
+zetaglobal.net,891,RESELLER
+admanmedia.com,2216,RESELLER
+connectad.io,456,RESELLER,85ac85a30c93b3e5
+rubiconproject.com,26800,RESELLER,0bfd66d529a55807
+adingo.jp,33005,RESELLER
+
+
+
 OWNERDOMAIN=nyashanation.com
 clickio.com, 147624, DIRECT
 152media.info,152M648,RESELLER
